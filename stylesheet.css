@@ -62,6 +62,8 @@ by making classes and picking off of them?*/
 
 .sidenav li {padding:5px;
              margin:10px;}
+aside img {height: 50%;
+          width: 50%}
 
 
 li       {list-style-type: none;}
